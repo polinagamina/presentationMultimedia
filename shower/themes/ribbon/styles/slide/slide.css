@@ -52,7 +52,7 @@
     padding-top: 15px;
     width: var(--ribbon-size);
     height: calc(var(--ribbon-size) * 2);
-    background-image: url('ribbon.svg');
+    background-image: url('images/fon.jpg');
     background-size: cover;
     color: white;
     counter-increment: slide;
